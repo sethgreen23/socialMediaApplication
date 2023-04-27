@@ -1,0 +1,17 @@
+{
+  "name": "challenge_010_final_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.5",
+    "bootstrap": "^5.3.0-alpha3",
+    "bootstrap-icons": "^1.10.4"
+  }
+}
